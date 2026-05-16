@@ -3,6 +3,8 @@
 This repository contains course materials, assignments, datasets, and code for
 **Data Driven Learning and Control for Dynamical Systems** at Clemson University.
 
+https://dyco-ai.github.io/data_driven_learning_course/
+
 ## Course Description
 
 This course provides a rigorous introduction to contemporary methods for the
