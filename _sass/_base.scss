@@ -26,7 +26,14 @@ figure {
 /**
  * Basic styling
  */
+html {
+    height: 100%;
+}
+
 body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;

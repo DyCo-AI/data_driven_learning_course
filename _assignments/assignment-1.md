@@ -4,7 +4,7 @@ type: assignment
 date: 2026-05-16T09:00:00-04:00
 summary: "Use the provided datasets to begin learning and validating data-driven models."
 order: 1
-pdf: https://github.com/DyCo-AI/data_driven_learning_course/blob/main/ASSIGNMENTS/Assignment1.pdf
+pdf: https://github.com/DyCo-AI/data_driven_learning_course/raw/main/ASSIGNMENTS/Assignment1.pdf
 attachment: https://github.com/DyCo-AI/data_driven_learning_course/blob/main/RESOURCES/Assigment%201%20datasets.zip
 ---
 
