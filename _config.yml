@@ -1,0 +1,49 @@
+# Site settings
+course_name: "Data Driven Learning and Control for Dynamical Systems"
+course_description: |
+  This course provides a rigorous introduction to contemporary methods for the data-driven modeling, analysis, and control of dynamical systems. It unifies key ideas from machine learning, optimization, control theory, and dynamical systems to address modern challenges in modeling and controlling complex engineering systems.
+
+  Topics include data-driven system identification, operator-theoretic perspectives (e.g., Koopman and Perron-Frobenius methods), reinforcement learning for control, optimal and robust control methods, and computational algorithms for high-dimensional systems. Throughout the course, theoretical developments are complemented by algorithmic implementations and software-based experimentation.
+
+  Applications are drawn from robotics, autonomous systems, power and energy networks, fluid dynamics, and other areas where data and dynamics intersect. By the end of the course, students will be prepared to formulate and solve data-driven modeling and control problems using state-of-the-art tools and methodologies.
+# course_semester: "Spring 2026"
+
+baseurl: ""
+url: ""
+
+schoolname: "Clemson University"
+schoolurl: "https://dyco-ai.github.io/dycoailab_web/"
+school_logo: "/_images/clemson-logo.jpg"
+lab_logo: "/_images/lab-logo.png"
+
+address: |
+  Clemson University
+  Clemson, South Carolina
+
+# Build settings
+markdown: kramdown
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ["_images", "_css"]
+exclude: ["develop", "vendor"]
+
+dateformat: "%m/%d/%Y"
+future: true
+
+collections:
+  events:
+    output: true
+  lectures:
+    output: true
+  assignments:
+    output: true
+  announcements:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

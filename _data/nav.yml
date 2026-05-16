@@ -1,0 +1,12 @@
+items:
+  - url: /
+    name: Home
+    icon_class: fa fa-home fa-lg
+
+  - url: /assignments/
+    name: Assignments
+    icon_class: fas fa-user-graduate
+
+  - url: /resources/
+    name: Materials
+    icon_class: fas fa-book
