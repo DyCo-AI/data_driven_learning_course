@@ -8,8 +8,8 @@ course_description: |
   Applications are drawn from robotics, autonomous systems, power and energy networks, fluid dynamics, and other areas where data and dynamics intersect. By the end of the course, students will be prepared to formulate and solve data-driven modeling and control problems using state-of-the-art tools and methodologies.
 # course_semester: "Spring 2026"
 
-baseurl: ""
-url: ""
+baseurl: "/data_driven_learning_course"
+url: "https://dyco-ai.github.io"
 
 schoolname: "Clemson University"
 schoolurl: "https://dyco-ai.github.io/dycoailab_web/"
