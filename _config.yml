@@ -6,6 +6,8 @@ course_description: |
   Topics include data-driven system identification, operator-theoretic perspectives (e.g., Koopman and Perron-Frobenius methods), reinforcement learning for control, optimal and robust control methods, and computational algorithms for high-dimensional systems. Throughout the course, theoretical developments are complemented by algorithmic implementations and software-based experimentation.
 
   Applications are drawn from robotics, autonomous systems, power and energy networks, fluid dynamics, and other areas where data and dynamics intersect. By the end of the course, students will be prepared to formulate and solve data-driven modeling and control problems using state-of-the-art tools and methodologies.
+
+  Course GitHub: [https://dyco-ai.github.io/data_driven_learning_course/](https://dyco-ai.github.io/data_driven_learning_course/)
 # course_semester: "Spring 2026"
 
 baseurl: "/data_driven_learning_course"
