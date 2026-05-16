@@ -10,3 +10,7 @@ items:
   - url: /resources/
     name: Materials
     icon_class: fas fa-book
+
+  - url: /projects/
+    name: Projects
+    icon_class: fas fa-project-diagram
