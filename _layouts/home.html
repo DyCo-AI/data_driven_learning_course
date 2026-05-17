@@ -42,6 +42,12 @@ layout: default
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
+                    {% if ins.email %}
+                    <p class="instructor-detail">Email: <a href="mailto:{{ ins.email }}">{{ ins.email }}</a></p>
+                    {% endif %}
+                    {% if ins.office %}
+                    <p class="instructor-detail">Office: {{ ins.office }}</p>
+                    {% endif %}
                 </div>
                 {% endfor %}
             </div>

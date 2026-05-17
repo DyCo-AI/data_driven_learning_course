@@ -2,5 +2,7 @@ instructors:
   - name: "Umesh Vaidya"
     profile_pic: /_images/pp/instructor.jpg
     webpage: "https://www.clemson.edu/cecas/departments/me/people/faculty/Vaidya.html"
+    email: "uvaidya@clemson.edu"
+    office: "EIB 125A"
 
 teaching_assistants: []

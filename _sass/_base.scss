@@ -411,11 +411,17 @@ a.tosu {
 }
 
 .image--cover-container {
-    width: 90px;
+    width: 260px;
     float: left;
     text-align: center;
     margin: 0px;
     margin-right: 40px;
+}
+
+.instructor-detail {
+    font-size: 0.9em;
+    margin-bottom: 4px;
+    text-align: center;
 }
 
 .image--cover {
